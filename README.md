@@ -62,7 +62,7 @@ Youtube: โปรแกรม คลินิก APS_X Platform
 #โปรแกรมคลินิก #โปรแกรม #ระบบคลินิก #opdcard #ipd #โปรแกรมclinic #ราคา #โปรแกรมคลินิกราคา #ระบบคลินิก #hospital #spa #wellness #ศุนย์ดูแลผู้สูงอาย #คลินิกความงาม #คลินิกเฉพาะทาง #คลินิกเวชกรรม #คลินิกทั่วไป #คลินิกพยาบาลผดุงครรภ์ #คลินิกกายภาพบำบัด #คลินิกแพทย์แผนไทย #คลินิกอายุรกรรม #คลินิกสุขภาพจิต #คลินิกแม่และเด็ก #คลินิกบําบัดยาเสพติด #คลินิกตา #ใบเสร็จรับยา #posคลินิก #APSX #APSTH #apsth #043002488 #0981816769 #apsthcom
 
 <p align="center">
-    <img width=100% src="https://www.apsth.com/assets/images/landings/saas/app-screen-1.jpg" />
+    <img width=100% src="https://repository-images.githubusercontent.com/387844395/b5a815c5-da96-4ac2-9228-87726112451a" />
 </p>
 
 บริษัท เอพีเอส ทีเอช จำกัด ( APSTH )
