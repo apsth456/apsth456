@@ -5,7 +5,7 @@
 
 เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer จัดจำหน่ายและให้บริการ Software ได้แก่
 
-โปรแกรม คลินิก | APS_X Platform | www.apsth.com
+โปรแกรมคลินิก APSX Platform | www.apsth.com
 
 LineID: @apsth
 
