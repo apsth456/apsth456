@@ -1,6 +1,20 @@
 #### I Am 👋, Prasan Srisopa
 #### CEO and Programmer Team Leader
 
+บริษัท เอพีเอส ทีเอช จำกัด ( APSTH )
+
+เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer จัดจำหน่ายและให้บริการ Software ได้แก่
+
+โปรแกรม คลินิก | APS_X Platform | www.apsth.com
+
+LineID: @apsth
+
+Email: apsth456@gmail.com
+
+Mobile: 0981-816769
+
+Tel: 043-002488
+
 โปรแกรม คลินิก APSX Platform
 
 For Hospital, Clinic, Spa, Wellness, ศูนย์ดูแลผู้สูงอายุ ธุรกิจความงาม คลินิกเฉพาะทาง คลินิกเวชกรรม คลินิกทั่วไป คลินิกพยาบาลผดุงครรภ์ คลินิกกายภาพบำบัด คลินิกแพทย์แผนไทย-จีน คลินิกอายุรกรรม คลินิกแม่และเด็ก คลินิกบําบัดยาเสพติด คลินิกสุขภาพจิต คลินิกตา คลินิกทันตกรรม
@@ -64,20 +78,6 @@ Youtube: โปรแกรม คลินิก APS_X Platform
 <p align="center">
     <img width=100% src="https://repository-images.githubusercontent.com/387844395/b5a815c5-da96-4ac2-9228-87726112451a" />
 </p>
-
-บริษัท เอพีเอส ทีเอช จำกัด ( APSTH )
-
-เราเป็นผู้เชี่ยวชาญด้าน Programmer & Developer จัดจำหน่ายและให้บริการ Software ได้แก่
-
-โปรแกรม คลินิก | APS_X Platform | www.apsth.com
-
-LineID: @apsth
-
-Email: apsth456@gmail.com
-
-Mobile: 0981-816769
-
-Tel: 043-002488
 
 <p align="center">
     Skills: GO / VUE JS / PHP / NODE JS / RUST / SWFT UI / JS / HTML / CSS / SCSS
